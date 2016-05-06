@@ -1,4 +1,4 @@
-//HW12 Program 1 Linear
+//HW11 Program 1 Linear
 //Yuan Gao
 //yug216
 //search single dimension array
